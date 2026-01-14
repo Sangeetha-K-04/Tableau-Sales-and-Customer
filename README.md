@@ -1,5 +1,9 @@
  # 📊 Sales & Customer Dashboard | Tableau 
 
+ <p align="center">
+  <img src="https://github.com/topics/customer-dashboard" width="50%">
+</p>
+
 A visually compelling and insight-driven **Tableau analytics project** that transforms raw sales data into **clear business intelligence**.  
 This project combines **Sales Performance** and **Customer Analytics** dashboards to help organizations understand *what is happening, why it is happening, and where to focus next*.
 

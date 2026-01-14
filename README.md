@@ -1,7 +1,7 @@
  # 📊 Sales & Customer Dashboard | Tableau 
 
  <p align="center">
-  <img src="https://github.com/topics/customer-dashboard" width="50%">
+  <img src="https://github.com/Sangeetha-K-04/Tableau-Sales-and-Customer/blob/main/sales-dashboards.jpg?raw=true" width="50%">
 </p>
 
 A visually compelling and insight-driven **Tableau analytics project** that transforms raw sales data into **clear business intelligence**.  

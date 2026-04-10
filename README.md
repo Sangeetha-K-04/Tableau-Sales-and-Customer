@@ -39,7 +39,7 @@ By integrating **year-over-year analysis**, KPIs, and trend-based insights, this
 - Subcategory-level profit and loss analysis  
 - Clear visibility into top and underperforming business areas
 
-**Sales Dashboard Preview:**
+### 🔹 Sales Dashboard Preview:
 
 
 ![Sales Dashboard](https://github.com/Sangeetha-K-04/Tableau-Sales-and-Customer/blob/main/Sales%20Dashboard.png?raw=true)
@@ -53,9 +53,15 @@ By integrating **year-over-year analysis**, KPIs, and trend-based insights, this
 - Customer count, orders, and average sales per customer  
 - Distribution of customers based on ordering frequency  
 - Top customers contributing maximum profit  
-- Monthly trends highlighting customer acquisition and retention  
+- Monthly trends highlighting customer acquisition and retention
+
+### 🔹Customer Dashboard Preview:
+
+
+![Sales Dashboard](https://github.com/Sangeetha-K-04/Tableau-Sales-and-Customer/blob/main/Customer%20Dashboard.png?raw=true)
 
 ---
+
 
 ## 🛠️ Tools & Skills Applied
 

@@ -39,7 +39,10 @@ By integrating **year-over-year analysis**, KPIs, and trend-based insights, this
 - Subcategory-level profit and loss analysis  
 - Clear visibility into top and underperforming business areas
 
-**Sales Dashboard Preview:** 
+**Sales Dashboard Preview:**
+
+
+![Sales Dashboard](https://github.com/Sangeetha-K-04/Tableau-Sales-and-Customer/blob/main/Sales%20Dashboard.png?raw=true)
 
 ---
 

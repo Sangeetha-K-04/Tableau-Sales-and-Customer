@@ -37,7 +37,9 @@ By integrating **year-over-year analysis**, KPIs, and trend-based insights, this
 - Key KPIs: Total Sales, Profit, Quantity with performance indicators  
 - Monthly sales and profit trends to detect growth patterns  
 - Subcategory-level profit and loss analysis  
-- Clear visibility into top and underperforming business areas  
+- Clear visibility into top and underperforming business areas
+
+**Sales Dashboard Preview:** 
 
 ---
 
